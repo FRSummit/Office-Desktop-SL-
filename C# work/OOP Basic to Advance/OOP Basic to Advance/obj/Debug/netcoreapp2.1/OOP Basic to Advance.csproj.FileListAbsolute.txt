@@ -1,0 +1,11 @@
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\OOP Basic to Advance\OOP Basic to Advance\bin\Debug\netcoreapp2.1\OOP Basic to Advance.deps.json
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\OOP Basic to Advance\OOP Basic to Advance\bin\Debug\netcoreapp2.1\OOP Basic to Advance.runtimeconfig.json
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\OOP Basic to Advance\OOP Basic to Advance\bin\Debug\netcoreapp2.1\OOP Basic to Advance.runtimeconfig.dev.json
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\OOP Basic to Advance\OOP Basic to Advance\bin\Debug\netcoreapp2.1\OOP Basic to Advance.dll
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\OOP Basic to Advance\OOP Basic to Advance\bin\Debug\netcoreapp2.1\OOP Basic to Advance.pdb
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\OOP Basic to Advance\OOP Basic to Advance\obj\Debug\netcoreapp2.1\OOP Basic to Advance.csprojAssemblyReference.cache
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\OOP Basic to Advance\OOP Basic to Advance\obj\Debug\netcoreapp2.1\OOP Basic to Advance.csproj.CoreCompileInputs.cache
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\OOP Basic to Advance\OOP Basic to Advance\obj\Debug\netcoreapp2.1\OOP Basic to Advance.AssemblyInfoInputs.cache
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\OOP Basic to Advance\OOP Basic to Advance\obj\Debug\netcoreapp2.1\OOP Basic to Advance.AssemblyInfo.cs
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\OOP Basic to Advance\OOP Basic to Advance\obj\Debug\netcoreapp2.1\OOP Basic to Advance.dll
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\OOP Basic to Advance\OOP Basic to Advance\obj\Debug\netcoreapp2.1\OOP Basic to Advance.pdb

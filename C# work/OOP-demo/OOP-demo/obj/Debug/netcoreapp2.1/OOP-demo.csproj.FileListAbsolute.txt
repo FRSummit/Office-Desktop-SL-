@@ -1,0 +1,11 @@
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\OOP-demo\OOP-demo\bin\Debug\netcoreapp2.1\OOP-demo.deps.json
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\OOP-demo\OOP-demo\bin\Debug\netcoreapp2.1\OOP-demo.runtimeconfig.json
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\OOP-demo\OOP-demo\bin\Debug\netcoreapp2.1\OOP-demo.runtimeconfig.dev.json
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\OOP-demo\OOP-demo\bin\Debug\netcoreapp2.1\OOP-demo.dll
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\OOP-demo\OOP-demo\bin\Debug\netcoreapp2.1\OOP-demo.pdb
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\OOP-demo\OOP-demo\obj\Debug\netcoreapp2.1\OOP-demo.csprojAssemblyReference.cache
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\OOP-demo\OOP-demo\obj\Debug\netcoreapp2.1\OOP-demo.csproj.CoreCompileInputs.cache
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\OOP-demo\OOP-demo\obj\Debug\netcoreapp2.1\OOP-demo.AssemblyInfoInputs.cache
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\OOP-demo\OOP-demo\obj\Debug\netcoreapp2.1\OOP-demo.AssemblyInfo.cs
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\OOP-demo\OOP-demo\obj\Debug\netcoreapp2.1\OOP-demo.dll
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\OOP-demo\OOP-demo\obj\Debug\netcoreapp2.1\OOP-demo.pdb

@@ -1,0 +1,11 @@
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.deps.json
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.json
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.dev.json
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.dll
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.pdb
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csprojAssemblyReference.cache
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfoInputs.cache
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfo.cs
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.dll
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.pdb

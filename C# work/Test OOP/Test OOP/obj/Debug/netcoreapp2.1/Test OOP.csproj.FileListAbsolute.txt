@@ -1,0 +1,11 @@
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\Test OOP\Test OOP\bin\Debug\netcoreapp2.1\Test OOP.deps.json
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\Test OOP\Test OOP\bin\Debug\netcoreapp2.1\Test OOP.runtimeconfig.json
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\Test OOP\Test OOP\bin\Debug\netcoreapp2.1\Test OOP.runtimeconfig.dev.json
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\Test OOP\Test OOP\bin\Debug\netcoreapp2.1\Test OOP.dll
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\Test OOP\Test OOP\bin\Debug\netcoreapp2.1\Test OOP.pdb
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\Test OOP\Test OOP\obj\Debug\netcoreapp2.1\Test OOP.csprojAssemblyReference.cache
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\Test OOP\Test OOP\obj\Debug\netcoreapp2.1\Test OOP.csproj.CoreCompileInputs.cache
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\Test OOP\Test OOP\obj\Debug\netcoreapp2.1\Test OOP.AssemblyInfoInputs.cache
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\Test OOP\Test OOP\obj\Debug\netcoreapp2.1\Test OOP.AssemblyInfo.cs
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\Test OOP\Test OOP\obj\Debug\netcoreapp2.1\Test OOP.dll
+D:\FRSummit - Tutorials\C#_Learn_SimplexWork\Test OOP\Test OOP\obj\Debug\netcoreapp2.1\Test OOP.pdb
