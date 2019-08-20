@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FRSummit - Tutorials\\C#_Learn_SimplexWork\\OOP Basic to Advance\\OOP Basic to Advance\\OOP Basic to Advance.csproj": {}
+    "D:\\FRSummit - Tutorials\\Office Desktop\\C# work\\OOP Basic to Advance\\OOP Basic to Advance\\OOP Basic to Advance.csproj": {}
   },
   "projects": {
-    "D:\\FRSummit - Tutorials\\C#_Learn_SimplexWork\\OOP Basic to Advance\\OOP Basic to Advance\\OOP Basic to Advance.csproj": {
+    "D:\\FRSummit - Tutorials\\Office Desktop\\C# work\\OOP Basic to Advance\\OOP Basic to Advance\\OOP Basic to Advance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FRSummit - Tutorials\\C#_Learn_SimplexWork\\OOP Basic to Advance\\OOP Basic to Advance\\OOP Basic to Advance.csproj",
+        "projectUniqueName": "D:\\FRSummit - Tutorials\\Office Desktop\\C# work\\OOP Basic to Advance\\OOP Basic to Advance\\OOP Basic to Advance.csproj",
         "projectName": "OOP Basic to Advance",
-        "projectPath": "D:\\FRSummit - Tutorials\\C#_Learn_SimplexWork\\OOP Basic to Advance\\OOP Basic to Advance\\OOP Basic to Advance.csproj",
+        "projectPath": "D:\\FRSummit - Tutorials\\Office Desktop\\C# work\\OOP Basic to Advance\\OOP Basic to Advance\\OOP Basic to Advance.csproj",
         "packagesPath": "C:\\Users\\SH01\\.nuget\\packages\\",
-        "outputPath": "D:\\FRSummit - Tutorials\\C#_Learn_SimplexWork\\OOP Basic to Advance\\OOP Basic to Advance\\obj\\",
+        "outputPath": "D:\\FRSummit - Tutorials\\Office Desktop\\C# work\\OOP Basic to Advance\\OOP Basic to Advance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

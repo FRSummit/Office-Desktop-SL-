@@ -1,0 +1,140 @@
+<!doctype html>
+<html>
+    <head>
+        <style>
+            body{
+                background: -webkit-linear-gradient(left, #25c481, #25b7c4);
+                background: linear-gradient(to right, #25c481, #25b7c4);}
+
+                .accordionItem{
+                float:left;
+                display:block;
+                width:100%;
+                box-sizing: border-box;
+                font-family:'Open-sans',Arial,sans-serif;
+            }
+            .title {
+                cursor:pointer;
+                margin:0px 0px 10px 0px;
+                padding:10px;
+                background:#2980b9;
+                color:#fff;
+                width:100%;
+                -webkit-border-radius: 3px;
+                -moz-border-radius: 3px;
+                border-radius: 3px;
+                box-sizing: border-box;
+            }
+            .close .offer-features {
+                height:0px;
+                transition:height 1s ease-out;
+                -webkit-transform: scaleY(0);
+                -o-transform: scaleY(0);
+                -ms-transform: scaleY(0);
+                transform: scaleY(0);
+                float:left;
+                display:block;
+            }
+            .open .offer-features {
+                padding: 20px;
+                background-color: #fff;
+                border: 1px solid #ddd;
+                width: 100%;
+                margin: 0px 0px 10px 0px;
+                display:block;
+                -webkit-transform: scaleY(1);
+                -o-transform: scaleY(1);
+                -ms-transform: scaleY(1);
+                transform: scaleY(1);
+                -webkit-transform-origin: top;
+                -o-transform-origin: top;
+                -ms-transform-origin: top;
+                transform-origin: top;
+                -webkit-transition: -webkit-transform 0.4s ease-out;
+                -o-transition: -o-transform 0.4s ease;
+                -ms-transition: -ms-transform 0.4s ease;
+                transition: transform 0.4s ease;
+                box-sizing: border-box;
+            }
+            .open .title {
+                margin:0px;
+                -webkit-border-top-left-radius: 3px;
+                -webkit-border-top-right-radius: 3px;
+                -moz-border-radius-topleft: 3px;
+                -moz-border-radius-topright: 3px;
+                border-top-left-radius: 3px;
+                border-top-right-radius: 3px;
+                -webkit-border-bottom-right-radius: 0px;
+                -webkit-border-bottom-left-radius: 0px;
+                -moz-border-radius-bottomright: 0px;
+                -moz-border-radius-bottomleft: 0px;
+                border-bottom-right-radius: 0px;
+                border-bottom-left-radius: 0px;
+                background-color: #bdc3c7;
+                color: #7f8c8d;
+            }
+        </style>
+    </head>
+    <body>
+        <ul class="offers style-scope caas-offers-base accordionWrapper">
+            <li class="offer-caas-offer style-scope caas-offers-base myClass open">
+                <span class="title style-scope caas-offer-base">
+                    <span class="highlight style-scope caas-offer-base">Digital</span>
+                    <span class="subtitle style-scope caas-offer-base">+ Bonus Sennheiser headphones </span>
+                </span>
+
+                
+                <div class="offer-features style-scope caas-offer-base">
+                    <h3 class="style-scope caas-offer-base"><span class="desc style-scope caas-offer-base">Full access to The Australian website and apps</span></h3>
+                </div>
+            </li>
+            <li class="offer-caas-offer style-scope caas-offers-base myClass close">
+                <span class="title style-scope caas-offer-base">
+                    <span class="highlight style-scope caas-offer-base">Digital 2</span>
+                    <span class="subtitle style-scope caas-offer-base">+ Bonus Sennheiser headphones 2</span>
+                </span>
+                
+                <div class="offer-features style-scope caas-offer-base">
+                    <h3 class="style-scope caas-offer-base"><span class="desc style-scope caas-offer-base">Full access to The Australian website and apps</span></h3>
+                </div>
+            </li>  
+            <li class="offer-caas-offer style-scope caas-offers-base myClass close">
+                <span class="title style-scope caas-offer-base">
+                    <span class="highlight style-scope caas-offer-base">Digital 3</span>
+                    <span class="subtitle style-scope caas-offer-base">+ Bonus Sennheiser headphones 3</span>
+                </span>
+                
+                <div class="offer-features style-scope caas-offer-base">
+                    <h3 class="style-scope caas-offer-base"><span class="desc style-scope caas-offer-base">Full access to The Australian website and apps</span></h3>
+                </div>
+            </li>
+        </ul>
+        
+        <script>
+            var accItem = document.getElementsByClassName('myClass');
+            var accHD = document.getElementsByClassName('title');
+            for (i = 0; i < accHD.length; i++) {
+                accHD[i].addEventListener('click', toggleItem, false);
+                console.log('++++++' + i);
+            }
+            function toggleItem() {
+                var itemClass = this.parentNode.className;
+                for (i = 0; i < accItem.length; i++) {
+                    accItem[i].className = 'myClass close';
+                    console.log('----------' + i);
+                }
+                if (itemClass == 'offer-caas-offer style-scope caas-offers-base myClass close') {
+                    this.parentNode.className = 'offer-caas-offer style-scope caas-offers-base myClass open';
+                }
+            }
+        </script>
+
+    </body>
+</html>
+
+
+myClass        = LOR-12-accordianItem
+title          = LOR-12-offer-head
+offer-features = LOR-12-feature
+
+

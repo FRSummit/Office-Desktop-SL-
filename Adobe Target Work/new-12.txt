@@ -1,0 +1,518 @@
+<ul class="offers style-scope caas-offers-base" style="
+    display: block;
+">
+                        
+                            <li class=" offer-caas-offer style-scope caas-offers-base" style="
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+">
+                                <caas-offer class="style-scope caas-offers-base x-scope caas-offer-0">
+        
+        <caas-offer-base class="style-scope caas-offer">
+            <div id="offer" class="offer  selected style-scope caas-offer-base" style="
+    max-width: 100%;
+">
+                
+                    <em class="selected-label style-scope caas-offer-base" style="">- Selected -</em>
+                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                <div class="offer-head style-scope caas-offer-base" style="
+    min-height: auto;
+    margin-top: 44px;
+    display: block;
+    /* padding: 10px 10px; */
+">
+                    <div class="offer-heading style-scope caas-offer-base">
+                        <h3 class="style-scope caas-offer-base">
+                            
+                                <span class="title style-scope caas-offer-base"><span class="highlight style-scope caas-offer-base">Digital</span></span>
+                            <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            <span class="subtitle style-scope caas-offer-base" style="display: none;"></span><template is="dom-if" class="style-scope caas-offer-base"></template>
+                        </h3>
+                    </div>
+                    <div class="offerClickArea style-scope caas-offer-base" style="
+    /* display: flex; */
+    /* justify-content: space-between; */
+">
+                        
+                            
+                                <div class="offer-hero-image offer-hero-image-position-1 style-scope caas-offer-base" style="
+    max-width: 23%;
+    margin: 0;
+    display: inline-block;
+    float: left;
+    margin: 10px;
+">
+                                    <img class="style-scope caas-offer-base" src="https://myaccount.news.com.au/bizopsimages/offersets/images/theaustralian/offer-1.png" style="
+    /* max-width: 23%; */
+    /* float: left; */
+">
+                                </div>
+                            <template is="dom-if" class="style-scope caas-offer-base"></template>
+                        <template is="dom-if" class="style-scope caas-offer-base"></template>
+                        <div class="offer-heading large-device style-scope caas-offer-base" style="
+    width: auto;
+    display: inline-block;
+    float: left;
+    margin: 10px;
+">
+                            <h3 class="style-scope caas-offer-base">
+                                
+                                    <span class="title style-scope caas-offer-base"><span class="highlight style-scope caas-offer-base">Digital</span></span>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <span class="subtitle style-scope caas-offer-base" style="display: none;"></span><template is="dom-if" class="style-scope caas-offer-base"></template>
+                            </h3>
+                        </div>
+                        
+                            
+                                <div class="offer-hero-image offer-hero-image-position-2 style-scope caas-offer-base">
+                                    <img class="style-scope caas-offer-base" src="https://myaccount.news.com.au/bizopsimages/offersets/images/theaustralian/offer-1.png">
+                                </div>
+                            <template is="dom-if" class="style-scope caas-offer-base"></template>
+                        <template is="dom-if" class="style-scope caas-offer-base"></template>
+                        <div class="offer-details-container style-scope caas-offer-base" style="
+    display: inline-block;
+    float: right;
+    width: 33%;
+    margin: 10px;
+">
+                            <div class="offer-costing style-scope caas-offer-base">
+                                <div class="price-container style-scope caas-offer-base">
+                                    
+                                        <div class="offer-upfront-cost large-device style-scope caas-offer-base">&nbsp;</div>
+                                    <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                    <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                    <p class="style-scope caas-offer-base">
+                                        
+                                            <span class="section price-before style-scope caas-offer-base" style="">$9</span><template is="dom-if" class="style-scope caas-offer-base"></template>
+                                        
+                                            <span class="section section1 currency style-scope caas-offer-base">$</span>
+                                        <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                        <span class="section section2 price-dollars style-scope caas-offer-base">4</span>
+                                        
+                                        <span class="section section3 style-scope caas-offer-base"><span class="price-cents-top-container style-scope caas-offer-base">
+                                                
+                                                    <span class="price-cents style-scope caas-offer-base" style="">50</span>
+                                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                                 <span class="price-cents style-scope caas-offer-base" style="display: none;">&nbsp;</span><template is="dom-if" class="style-scope caas-offer-base"></template>
+                                            </span>
+                                            <span class="price-cents-bottom-container style-scope caas-offer-base">/WEEK</span>
+                                        </span>
+                                    </p>
+                                </div>
+                                <div class="offer-button-container small-device style-scope caas-offer-base" style="">
+                                    <em class="btn style-scope caas-offer-base"><span class="style-scope caas-offer-base">Subscribe</span></em>
+                                </div>
+                            </div>
+                            <div class="offer-tncs-container style-scope caas-offer-base" style="
+    display: none;
+">
+                                
+                                    <div class="offer-tncs style-scope caas-offer-base">
+                                        <span class="style-scope caas-offer-base">For the first 12 weeks, min. cost $18 billed every 4 weeks. Then $36 billed every 4 weeks.*</span>
+                                    </div>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                
+                                    <div class="offer-tncs style-scope caas-offer-base">
+                                        <span class="style-scope caas-offer-base">&nbsp;</span>
+                                    </div>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            </div>
+                        </div>
+                        <div class="offer-button-container large-device style-scope caas-offer-base">
+                            <em class="btn style-scope caas-offer-base" style="
+    position: absolute;
+    width: 25%;
+    right: 4%;
+    bottom: 20%;
+"><span class="style-scope caas-offer-base">Subscribe</span></em>
+                            <em class="btn select style-scope caas-offer-base" style="
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    position: absolute;
+    top: 0;
+"><span class="style-scope caas-offer-base">Selected</span></em>
+                        </div>
+                    </div>
+    
+                </div>
+    
+                <div class="offer-features-container style-scope caas-offer-base" style="/* height: auto; *//* max-height: 350px; */display: block;width: 100%;/* border-top: 1px solid #222; */">     
+                    <div class="offer-features-arrow style-scope caas-offer-base"></div>
+                    <div class="offer-features style-scope caas-offer-base" style="
+">
+                        <ul class="style-scope caas-offer-base">
+                            
+                                
+                                    <li class="" style="
+    height: auto;
+"><span class="desc">Full access to The Australian website and apps</span></li>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            
+                                
+                                    <li class="" style="
+    border-top: 0;
+    height: auto;
+"><span class="desc">The Australian <em>Plus</em> member benefits program</span></li>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            
+                                
+                                    <li class="" style="
+    border-top: 0;
+    height: auto;
+"><span class="desc"><p style="
+    margin: 0;
+">Full digital access to The Wall Street Journal</p></span></li>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            
+                                
+                                    <li class="" style="
+    border-top: 0;
+    display: inline-block;
+    height: auto;
+    position: absolute;
+    top: 0;
+    left: 33%;
+    max-width: 360px;
+"><span class="desc"><p style="
+    margin: 0;
+">Access Mind Games on any device. Test yourself with The Times Cryptic crossword or Sudoku</p></span></li>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            
+                                
+                                    <li class="" style="
+    border-top: 0;
+    height: auto;
+"><span class="desc">No lock-in contract<sup>†</sup></span></li>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <li class="no-desc" style="display: none;"><span class="desc">–</span></li><template is="dom-if" class="style-scope caas-offer-base"></template>
+                            
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                
+                                    <li class="no-desc" style="
+    display: none;
+"><span class="desc">–</span></li>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                
+                                    <li class="no-desc style-scope caas-offer-base" style="
+    display: none;
+"><span class="desc style-scope caas-offer-base">–</span></li>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            <template is="dom-repeat" as="feature" class="style-scope caas-offer-base"></template>
+                            
+        	
+        		<li class="learn-more style-scope caas-offer" style="
+    display: none;
+"><a class="desc style-scope caas-offer" href="http://www.theaustralian.com.au/membership/learn-more">Learn more</a></li>
+        	
+        
+                        </ul>
+                    </div>
+                </div>
+            </div>
+    </caas-offer-base>
+    </caas-offer>
+                            </li>
+                        
+                            <li class=" offer-caas-offer style-scope caas-offers-base">
+                                <caas-offer class="style-scope caas-offers-base x-scope caas-offer-0">
+        
+        <caas-offer-base class="style-scope caas-offer">
+            <div id="offer" class="offer   style-scope caas-offer-base">
+                <em class="selected-label style-scope caas-offer-base" style="display: none;">- Selected -</em><template is="dom-if" class="style-scope caas-offer-base"></template>
+                <div class="offer-head style-scope caas-offer-base">
+                    <div class="offer-heading style-scope caas-offer-base">
+                        <h3 class="style-scope caas-offer-base">
+                            
+                                <span class="title style-scope caas-offer-base"><span class="highlight style-scope caas-offer-base">Digital + weekend paper</span></span>
+                            <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            <span class="subtitle style-scope caas-offer-base" style="display: none;"></span><template is="dom-if" class="style-scope caas-offer-base"></template>
+                        </h3>
+                    </div>
+                    <div class="offerClickArea style-scope caas-offer-base">
+                        
+                            
+                                <div class="offer-hero-image offer-hero-image-position-1 style-scope caas-offer-base">
+                                    <img class="style-scope caas-offer-base" src="https://myaccount.news.com.au/bizopsimages/offersets/images/theaustralian/Shopfront_weekend_best_value.png">
+                                </div>
+                            <template is="dom-if" class="style-scope caas-offer-base"></template>
+                        <template is="dom-if" class="style-scope caas-offer-base"></template>
+                        <div class="offer-heading large-device style-scope caas-offer-base">
+                            <h3 class="style-scope caas-offer-base">
+                                
+                                    <span class="title style-scope caas-offer-base"><span class="highlight style-scope caas-offer-base">Digital + weekend paper</span></span>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <span class="subtitle style-scope caas-offer-base" style="display: none;"></span><template is="dom-if" class="style-scope caas-offer-base"></template>
+                            </h3>
+                        </div>
+                        
+                            
+                                <div class="offer-hero-image offer-hero-image-position-2 style-scope caas-offer-base">
+                                    <img class="style-scope caas-offer-base" src="https://myaccount.news.com.au/bizopsimages/offersets/images/theaustralian/Shopfront_weekend_best_value.png">
+                                </div>
+                            <template is="dom-if" class="style-scope caas-offer-base"></template>
+                        <template is="dom-if" class="style-scope caas-offer-base"></template>
+                        <div class="offer-details-container style-scope caas-offer-base">
+                            <div class="offer-costing style-scope caas-offer-base">
+                                <div class="price-container style-scope caas-offer-base">
+                                    
+                                        <div class="offer-upfront-cost large-device style-scope caas-offer-base">&nbsp;</div>
+                                    <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                    <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                    <p class="style-scope caas-offer-base">
+                                        
+                                            <span class="section price-before style-scope caas-offer-base" style="">$9</span>
+                                        <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                        
+                                            <span class="section section1 currency style-scope caas-offer-base">$</span>
+                                        <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                        <span class="section section2 price-dollars style-scope caas-offer-base">4</span>
+                                        
+                                        <span class="section section3 style-scope caas-offer-base">
+                                            <span class="price-cents-top-container style-scope caas-offer-base">
+                                                
+                                                    <span class="price-cents style-scope caas-offer-base" style="">50</span>
+                                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                                 <span class="price-cents style-scope caas-offer-base" style="display: none;">&nbsp;</span><template is="dom-if" class="style-scope caas-offer-base"></template>
+                                            </span>
+                                            <span class="price-cents-bottom-container style-scope caas-offer-base">/WEEK</span>
+                                        </span>
+                                    </p>
+                                </div>
+                                <div class="offer-button-container small-device style-scope caas-offer-base">
+                                    <em class="btn style-scope caas-offer-base"><span class="style-scope caas-offer-base">Subscribe</span></em>
+                                </div>
+                            </div>
+                            <div class="offer-tncs-container style-scope caas-offer-base">
+                                
+                                    <div class="offer-tncs style-scope caas-offer-base">
+                                        <span class="style-scope caas-offer-base">For the first 12 weeks, min. cost $18 billed every 4 weeks. Then $36 billed every 4 weeks.*</span>
+                                    </div>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                
+                                    <div class="offer-tncs style-scope caas-offer-base">
+                                        <span class="style-scope caas-offer-base">&nbsp;</span>
+                                    </div>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            </div>
+                        </div>
+                        <div class="offer-button-container large-device style-scope caas-offer-base">
+                            <em class="btn style-scope caas-offer-base"><span class="style-scope caas-offer-base">Subscribe</span></em>
+                            <em class="btn select style-scope caas-offer-base"><span class="style-scope caas-offer-base">Selected</span></em>
+                        </div>
+                    </div>
+                </div>
+                <div class="offer-features-container style-scope caas-offer-base">     
+                    <div class="offer-features-arrow style-scope caas-offer-base"></div>
+                    <div class="offer-features style-scope caas-offer-base">
+                        <ul class="style-scope caas-offer-base">
+                            
+                                
+                                    <li class="style-scope caas-offer-base"><span class="desc style-scope caas-offer-base">Full access to The Australian website and apps</span></li>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            
+                                
+                                    <li class="style-scope caas-offer-base"><span class="desc style-scope caas-offer-base">The Australian <em>Plus</em> member benefits program</span></li>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            
+                                
+                                    <li class="style-scope caas-offer-base"><span class="desc style-scope caas-offer-base"><p>Full digital access to The Wall Street Journal</p></span></li>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            
+                                
+                                    <li class="style-scope caas-offer-base"><span class="desc style-scope caas-offer-base"><p>Access Mind Games on any device. Test yourself with The Times Cryptic crossword or Sudoku</p></span></li>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            
+                                
+                                    <li class="style-scope caas-offer-base"><span class="desc style-scope caas-offer-base">No lock-in contract<sup>†</sup></span></li>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            
+                                
+                                    <li class="style-scope caas-offer-base" style=""><span class="desc style-scope caas-offer-base"><p>Saturday paper delivered including The Weekend Australian Magazine and Review</p></span></li>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <li class="no-desc style-scope caas-offer-base" style="display: none;"><span class="desc style-scope caas-offer-base">–</span></li><template is="dom-if" class="style-scope caas-offer-base"></template>
+                            
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                
+                                    <li class="no-desc style-scope caas-offer-base"><span class="desc style-scope caas-offer-base">–</span></li>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            <template is="dom-repeat" as="feature" class="style-scope caas-offer-base"></template>
+                            
+        	
+        		<li class="learn-more style-scope caas-offer"><a class="desc style-scope caas-offer" href="http://www.theaustralian.com.au/membership/learn-more">Learn more</a></li>
+        	
+        
+                        </ul>
+                    </div>
+                </div>
+            </div>
+    </caas-offer-base>
+    </caas-offer>
+                            </li>
+                        
+                            <li class=" offer-caas-offer style-scope caas-offers-base">
+                                <caas-offer class="style-scope caas-offers-base x-scope caas-offer-0">
+        
+        <caas-offer-base class="style-scope caas-offer">
+            <div id="offer" class="offer   style-scope caas-offer-base">
+                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                <div class="offer-head style-scope caas-offer-base">
+                    <div class="offer-heading style-scope caas-offer-base">
+                        <h3 class="style-scope caas-offer-base">
+                            
+                                <span class="title style-scope caas-offer-base"><span class="highlight style-scope caas-offer-base">Digital + 6 day paper</span></span>
+                            <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            <span class="subtitle style-scope caas-offer-base" style="display: none;"></span><template is="dom-if" class="style-scope caas-offer-base"></template>
+                        </h3>
+                    </div>
+                    <div class="offerClickArea style-scope caas-offer-base">
+                        
+                            
+                                <div class="offer-hero-image offer-hero-image-position-1 style-scope caas-offer-base">
+                                    <img class="style-scope caas-offer-base" src="https://myaccount.news.com.au/bizopsimages/offersets/images/theaustralian/offer-3.png">
+                                </div>
+                            <template is="dom-if" class="style-scope caas-offer-base"></template>
+                        <template is="dom-if" class="style-scope caas-offer-base"></template>
+                        <div class="offer-heading large-device style-scope caas-offer-base">
+                            <h3 class="style-scope caas-offer-base">
+                                
+                                    <span class="title style-scope caas-offer-base"><span class="highlight style-scope caas-offer-base">Digital + 6 day paper</span></span>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <span class="subtitle style-scope caas-offer-base" style="display: none;"></span><template is="dom-if" class="style-scope caas-offer-base"></template>
+                            </h3>
+                        </div>
+                        
+                            
+                                <div class="offer-hero-image offer-hero-image-position-2 style-scope caas-offer-base">
+                                    <img class="style-scope caas-offer-base" src="https://myaccount.news.com.au/bizopsimages/offersets/images/theaustralian/offer-3.png">
+                                </div>
+                            <template is="dom-if" class="style-scope caas-offer-base"></template>
+                        <template is="dom-if" class="style-scope caas-offer-base"></template>
+                        <div class="offer-details-container style-scope caas-offer-base">
+                            <div class="offer-costing style-scope caas-offer-base">
+                                <div class="price-container style-scope caas-offer-base">
+                                    
+                                        <div class="offer-upfront-cost large-device style-scope caas-offer-base">&nbsp;</div>
+                                    <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                    <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                    <p class="style-scope caas-offer-base">
+                                        
+                                            <span class="section price-before style-scope caas-offer-base" style="">$16</span>
+                                        <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                        
+                                            <span class="section section1 currency style-scope caas-offer-base">$</span>
+                                        <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                        <span class="section section2 price-dollars style-scope caas-offer-base">8</span>
+                                        
+                                        <span class="section section3 style-scope caas-offer-base">
+                                            <span class="price-cents-top-container style-scope caas-offer-base">
+                                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                                 
+                                                    <span class="price-cents style-scope caas-offer-base">&nbsp;</span>
+                                                 <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                            </span>
+                                            <span class="price-cents-bottom-container style-scope caas-offer-base">/WEEK</span>
+                                        </span>
+                                    </p>
+                                </div>
+                                <div class="offer-button-container small-device style-scope caas-offer-base">
+                                    <em class="btn style-scope caas-offer-base"><span class="style-scope caas-offer-base">Subscribe</span></em>
+                                </div>
+                            </div>
+                            <div class="offer-tncs-container style-scope caas-offer-base">
+                                
+                                    <div class="offer-tncs style-scope caas-offer-base">
+                                        <span class="style-scope caas-offer-base">For the first 12 weeks min. cost $32 billed every 4 weeks. Then $64 billed every 4 weeks.<sup>*</sup></span>
+                                    </div>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                
+                                    <div class="offer-tncs style-scope caas-offer-base">
+                                        <span class="style-scope caas-offer-base">&nbsp;</span>
+                                    </div>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            </div>
+                        </div>
+                        <div class="offer-button-container large-device style-scope caas-offer-base">
+                            <em class="btn style-scope caas-offer-base"><span class="style-scope caas-offer-base">Subscribe</span></em>
+                            <em class="btn select style-scope caas-offer-base"><span class="style-scope caas-offer-base">Selected</span></em>
+                        </div>
+                    </div>
+                </div>
+                <div class="offer-features-container style-scope caas-offer-base">     
+                    <div class="offer-features-arrow style-scope caas-offer-base"></div>
+                    <div class="offer-features style-scope caas-offer-base">
+                        <ul class="style-scope caas-offer-base">
+                            
+                                
+                                    <li class="style-scope caas-offer-base"><span class="desc style-scope caas-offer-base">Full access to The Australian website and apps</span></li>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            
+                                
+                                    <li class="style-scope caas-offer-base"><span class="desc style-scope caas-offer-base">The Australian <em>Plus</em> member benefits program</span></li>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            
+                                
+                                    <li class="style-scope caas-offer-base"><span class="desc style-scope caas-offer-base"><p>Full digital access to The Wall Street Journal</p></span></li>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            
+                                
+                                    <li class="style-scope caas-offer-base"><span class="desc style-scope caas-offer-base"><p>Access Mind Games on any device. Test yourself with The Times Cryptic crossword or Sudoku</p></span></li>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            
+                                
+                                    <li class="style-scope caas-offer-base"><span class="desc style-scope caas-offer-base">No lock-in contract<sup>†</sup></span></li>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            
+                                
+                                    <li class="style-scope caas-offer-base"><span class="desc style-scope caas-offer-base"><p>Saturday paper delivered including The Weekend Australian Magazine and Review</p></span></li>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            
+                                
+                                    <li class="style-scope caas-offer-base"><span class="desc style-scope caas-offer-base"><p>Monday to Friday paper delivered including The Deal and WISH**</p></span></li>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                                <template is="dom-if" class="style-scope caas-offer-base"></template>
+                            <template is="dom-repeat" as="feature" class="style-scope caas-offer-base"></template>
+                            
+        	
+        		<li class="learn-more style-scope caas-offer"><a class="desc style-scope caas-offer" href="http://www.theaustralian.com.au/membership/learn-more">Learn more</a></li>
+        	
+        
+                        </ul>
+                    </div>
+                </div>
+            </div>
+    </caas-offer-base>
+    </caas-offer>
+                            </li>
+                        <template is="dom-repeat" as="offer" class="style-scope caas-offers-base"></template>
+                    </ul>
